@@ -1,0 +1,23 @@
+"""
+Date: 18th May 2022 Wednesday
+Name: Bapatla sravan
+File Desc: Type_method
+"""
+
+name=input()
+empid=int(input())
+salary=float(input())
+emailid=input()
+mobile_number=int(input())
+
+# print("my name is",name,"and empid id",empid)
+# print("and my salary of the monnth may is",salary)
+# print("my emailid is",emailid,"and mobile numbe is",mobile_number)
+
+# print("my name is %s and my empid is %d"%(name,empid))
+# print("the salaryof the month may is %f"% salary)
+# print("my emailid %s and my mobile number is %i" %(emailid,mobile_number))
+
+print(f"my name is {name} and my empid is {empid}")
+print(f"the salaryof the month may is {salary}")
+print(f"my emailid {emailid} and my mobile number is {mobile_number}")
