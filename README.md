@@ -1,2 +1,2 @@
-# Day09_detail_input
+# Day08_detail_input
 Fast strings
